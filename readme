@@ -1,0 +1,16 @@
+More Programming Pearls
+Jon Bentley
+Column 9 Little Language
+
+Part 1 how to use pic as a box
+Part 2 how to build pic with Lex, Yacc and Make
+
+pic - compile pictures for troff or TeX.
+DESCRIPTION
+    Each pictures starts with a line beginning with .PS
+    and ends with a line beginning with .PE.
+    more details on $ man pic.
+
+dyw says that, if you want to know what a compiler is,
+this is a good introduction to compiler; if you want to
+know what Lex and Yacc do in details, read the Dragon Book.
